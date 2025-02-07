@@ -19,7 +19,7 @@ Após o sorteio, o participante precisa fazer login utilizando seu nome e senha 
 ### Exemplo de Execução
 #### Passo 1: Cadastro de Participantes
 ![Texto alternativo](imagens/amigo_secreto.png)
-####Passo 2: Sorteio dos Amigos Secretos
+#### Passo 2: Sorteio dos Amigos Secretos
 O sistema sorteia aleatoriamente os amigos secretos, garantindo que ninguém tire a si mesmo.
 
 #### Passo 3: Login
