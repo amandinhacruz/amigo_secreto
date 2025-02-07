@@ -18,7 +18,7 @@ Após o cadastro, o sistema realiza o sorteio de amigos secretos. Nenhuma pessoa
 Após o sorteio, o participante precisa fazer login utilizando seu nome e senha cadastrados. Se o nome e a senha estiverem corretos, o sistema exibirá quem foi o seu amigo secreto.
 ### Exemplo de Execução
 #### Passo 1: Cadastro de Participantes
-![Texto alternativo](imagens/amigo-secreto.png)
+![Texto alternativo](imagens/amigo secreto.png)
 ####Passo 2: Sorteio dos Amigos Secretos
 O sistema sorteia aleatoriamente os amigos secretos, garantindo que ninguém tire a si mesmo.
 
